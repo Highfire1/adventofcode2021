@@ -1,6 +1,5 @@
 count = 0
 
-# part 1
 with open("day 1/in.txt", "r") as measurements:
     previtem = measurements.readline()
 
