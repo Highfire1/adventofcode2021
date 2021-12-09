@@ -1,0 +1,2 @@
+language = "bash"
+run = "python 'day 9/17.py'"
